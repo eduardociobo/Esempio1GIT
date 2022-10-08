@@ -18,6 +18,9 @@ namespace GIT_es1
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// 
+
+    //Bottone per il calcolo della media
     public partial class MainWindow : Window
     {
         public MainWindow()
